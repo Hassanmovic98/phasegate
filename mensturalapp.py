@@ -13,7 +13,7 @@ class CreateProfile:
         self.genotype = genotype
 
 
-   def display_profile(self):
+def display_profile(self):
     print("Profile:")
     print("Name:", self.name)
     print("Age:", self.age)
@@ -77,9 +77,9 @@ def track_of_cycle():
 
     ovulation_day = add_days(day, month, year, cycle_length - 14)
 
-    fertile_start = add_days(day, month, year, cycle_length - 14 - 5)
+    fertile_starts = add_days(day, month, year, cycle_length - 14 - 5)
 
-    fertile_end = add_days(day, month, year, cycle_length - 14 + 1)
+    fertile_ends = add_days(day, month, year, cycle_length - 14 + 1)
 
     print("Next Period Start:", next_start)
 
@@ -89,7 +89,7 @@ def track_of_cycle():
 
     print("Fertile Days:", fertile_starts, "to", fertile_ends)
 
-    print("Safe Sex Days: Before", fertile_start, "and After", fertile_end)
+    print("Safe Sex Days: Before", fertile_starts, "and After", fertile_ends)
 
     save_cycle_history(last_period, cycle_length, period_duration, next_start)
 
