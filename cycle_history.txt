@@ -1,0 +1,13 @@
+Last Period: 2025-05-17, Cycle Length: 5, Period Duration: 5, Next Period Start: 2025-05-22
+Last Period: 1995-05-17, Cycle Length: 5, Period Duration: 5, Next Period Start: 1995-05-22
+Last Period: 1998-05-25, Cycle Length: 5, Period Duration: 5, Next Period Start: 1998-05-30
+Last Period: 25-05-2025, Cycle Length: 5, Period Duration: 5, Next Period Start: 30-11-21
+Last Period: 2025-05-25, Cycle Length: 5, Period Duration: 15, Next Period Start: 2025-05-30
+Last Period: 2025-05-23, Cycle Length: 5, Period Duration: 15, Next Period Start: 2025-05-28
+Last Period: 2025-05-25, Cycle Length: 28, Period Duration: 5, Next Period Start: 2025-06-22
+Last Period: 2025-05-25, Cycle Length: 5, Period Duration: 25, Next Period Start: 2025-05-30
+Last Period: 2025-05-25, Cycle Length: 5, Period Duration: 28, Next Period Start: 2025-05-30
+Last Period: 2025-05-25, Cycle Length: 28, Period Duration: 5, Next Period Start: 2025-06-22
+Last Period: 2025-05-25, Cycle Length: 28, Period Duration: 5, Next Period Start: 2025-06-22
+Last Period: 2025-05-25, Cycle Length: 28, Period Duration: 5, Next Period Start: 2025-06-22
+Last Period: 2025-05-25, Cycle Length: 30, Period Duration: 5, Next Period Start: 2025-06-24
