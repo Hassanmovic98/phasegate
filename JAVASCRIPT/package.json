@@ -1,0 +1,23 @@
+{
+  "name": "phasegate",
+  "version": "1.0.0",
+  "main": "StudentGrade.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hassanmovic98/phasegate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hassanmovic98/phasegate/issues"
+  },
+  "homepage": "https://github.com/Hassanmovic98/phasegate#readme",
+  "description": "",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
